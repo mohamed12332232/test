@@ -10,6 +10,7 @@ body{
 
 button{
     background: red;
+    border: 3px red solid;
 }
 
 
