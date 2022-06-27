@@ -10,7 +10,7 @@ body{
 
 button{
     background: red;
-    border: 3px red solid;
+    border: 1px rgba(255, 32, 32, 0.92) solid;
 }
 
 
